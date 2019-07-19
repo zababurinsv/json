@@ -1,0 +1,36 @@
+"body": { 
+"header": { 
+"title": "Web Container Example", 
+"style": { 
+"background": "#3a3a3a", 
+"color": "#ffffff", 
+"padding": "0" 
+} 
+}, 
+"footer": { 
+"tabs": { 
+"style": { 
+"background": "#ffffff" 
+}, 
+"items": [ 
+{ 
+"image": "https://png.icons8.com/ios/100/000000/anonymous-mask.png", 
+"text": "Top Secret" 
+}, 
+{ 
+"image": "https://s3-us-west-2.amazonaws.com/fm.ethan.jason/info@2x.png", 
+"text": "Info", 
+"badge": "2" 
+}, 
+{ 
+"image": "https://s3-us-west-2.amazonaws.com/fm.ethan.jason/apps@2x.png", 
+"text": "Collection" 
+} 
+] 
+} 
+}, 
+"background": { 
+"type": "html", 
+"url": "https://varan-dostavka.firebaseapp.com/" 
+} 
+} 
